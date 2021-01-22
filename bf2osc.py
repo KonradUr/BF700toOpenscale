@@ -8,7 +8,7 @@ https://github.com/giuaig/sanitas2openscale
 
 adapted by: Konrad Urbański
 
-Convert Beuer BF700 csv file that openScale can import.
+Converts Beuer BF700 csv file that openScale can import.
 Tested with openScale v2.3.5-pro and Beuer data exported from beuer-connect www (January 2021).
 .
 usage:
