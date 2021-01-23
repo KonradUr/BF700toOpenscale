@@ -8,11 +8,11 @@ https://github.com/giuaig/sanitas2openscale
 
 adapted by: Konrad Urbański
 
-Converts Beuer BF700 csv file that openScale can import.
-Tested with openScale v2.3.5-pro and Beuer data exported from beuer-connect www (January 2021).
+Converts Beurer BF700 csv file that openScale can import.
+Tested with openScale v2.3.5-pro and Beurer data exported from beurer-connect www (January 2021).
 .
 usage:
-    python3 bf2osc.py my_beuer_file.csv my_file_openscale.csv
+    python3 bf2osc.py my_beurer_file.csv my_file_openscale.csv
 """
 
 import sys
